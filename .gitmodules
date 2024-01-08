@@ -1,0 +1,45 @@
+[submodule "third_party/copperspice"]
+	path = third_party/copperspice
+	url = https://github.com/copperspice/copperspice
+[submodule "third_party/boost"]
+	path = third_party/boost
+	url = https://github.com/boostorg/boost
+[submodule "third_party/ranges-v3"]
+	path = third_party/ranges-v3
+	url = https://github.com/ericniebler/range-v3
+[submodule "third_party/jsoncpp"]
+	path = third_party/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp
+[submodule "third_party/catch2"]
+	path = third_party/catch2
+	url = https://github.com/catchorg/Catch2
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest
+[submodule "third_party/absl"]
+	path = third_party/absl
+	url = https://github.com/abseil/abseil-cpp
+[submodule "third_party/google_benchmark"]
+	path = third_party/google_benchmark
+	url = https://github.com/google/benchmark
+[submodule "third_party/poco"]
+	path = third_party/poco
+	url = https://github.com/pocoproject/poco
+[submodule "third_party/ffmpeg"]
+	path = third_party/ffmpeg
+	url = https://github.com/FFmpeg/FFmpeg
+[submodule "third_party/Eigen"]
+	path = third_party/Eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
+[submodule "third_party/OpenCV"]
+	path = third_party/OpenCV
+	url = https://github.com/opencv/opencv
+[submodule "third_party/Tensorflow"]
+	path = third_party/Tensorflow
+	url = https://github.com/tensorflow/tensorflow
+[submodule "third_party/protobuf"]
+	path = third_party/protobuf
+	url = https://github.com/protocolbuffers/protobuf
+[submodule "third_party/json"]
+	path = third_party/json
+	url = https://github.com/nlohmann/json

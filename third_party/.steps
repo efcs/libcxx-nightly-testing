@@ -1,0 +1,17 @@
+
+git submodule add https://github.com/copperspice/copperspice copperspice
+git submodule add https://github.com/boostorg/boost boost
+git submodule add https://github.com/ericniebler/range-v3 ranges-v3
+git submodule add https://github.com/open-source-parsers/jsoncpp jsoncpp
+git submodule add https://github.com/catchorg/Catch2 catch2
+git submodule add https://github.com/google/googletest googletest
+git submodule add https://github.com/abseil/abseil-cpp absl
+git submodule add https://github.com/google/benchmark google_benchmark
+git submodule add https://github.com/pocoproject/poco poco
+git submodule add https://github.com/FFmpeg/FFmpeg ffmpeg
+git submodule add https://github.com/eigenteam/eigen-git-mirror Eigen
+git submodule add https://github.com/opencv/opencv OpenCV
+git submodule add https://github.com/tensorflow/tensorflow Tensorflow
+git submodule add https://github.com/protocolbuffers/protobuf protobuf
+git submodule add https://github.com/nlohmann/json json
+echo Submodules added successfully
